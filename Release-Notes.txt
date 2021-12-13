@@ -1,0 +1,4 @@
+##JL-30/11/2021 ##
+------------------
+
+Updated the columns code. Replaced <td> with <th> to address display issue on certan gmail mobile clients.
